@@ -26,7 +26,7 @@ To get started with your AZ-900 preparation, follow these steps:
 
 ## Recommended Trainer
 
-For guided learning and expert insights, we highly recommend the training courses by [Your Trainer's Name](https://trainer-link.com). Their comprehensive courses cover all the necessary topics and provide valuable tips for passing the AZ-900 certification exam.
+For guided learning and expert insights, we highly recommend the training courses by [Adam Marczak](https://marczak.io/az-900/). Their comprehensive courses cover all the necessary topics and provide valuable tips for passing the AZ-900 certification exam.
 
 ## Contributing
 
